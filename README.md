@@ -1,5 +1,5 @@
 # ChitChatApp
-ChitChat is a Java based android application.It uses FireBase as the database.ChitChat is a free and easy to use messaging android app.ChitChat is developed using android studio.
+ChitChat is a Java-based Android application that uses FireBase as the database. It is a free and easy-to-use messaging app developed using Android Studio.
 
 # Brief Video
 https://github.com/Pomlington21/ChitChatApp/assets/137432465/bd483701-b867-4043-a717-02e4a46e0866
